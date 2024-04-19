@@ -21,8 +21,8 @@ An Excel table is a specially formatted range of data in a spreadsheet that offe
 1. Using tables, execute the commands below:
     * display a list of women's data
     * display a list of people from Poland and Germanty
-    * calculate the number of women in Slovakia
-    * display a list of people aged 18-25
+    * calculate the number of women in Slovakia: =COUNTIFS(G2:G101; "Slovakia"; C2:C101;"Female")
+    * display a list of people aged 18-25: =FILTER(A:G; (D:D >= 18)*(D:D <= 25); "No data")
     * display a list of people whose height is between 160-180 cm and whose weight is between 55-90 kg
     * calculate the number of people who weigh at least 75 kg
     * display a list of people whose BMI is normal
