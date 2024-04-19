@@ -1,0 +1,101 @@
+,flight,from,to,airlineid,airline,airplane,name,surname,gender
+0,LN222,Krakow,London,PE,PanEurope,Boeing 787,Ferguson,Osban,Male
+1,LN222,Krakow,London,PE,PanEurope,Boeing 787,Nehemiah,Budcock,Male
+2,LN222,Krakow,London,PE,PanEurope,Boeing 787,Lindi,Snoad,Female
+3,LN222,Krakow,London,PE,PanEurope,Boeing 787,Willyt,Matlock,Female
+4,LN222,Krakow,London,PE,PanEurope,Boeing 787,Nolana,Pattie,Female
+5,LN222,Krakow,London,PE,PanEurope,Boeing 787,Araldo,Permain,Male
+6,LN222,Krakow,London,PE,PanEurope,Boeing 787,Rennie,McComiskey,Female
+7,LN222,Krakow,London,PE,PanEurope,Boeing 787,Stormy,Quare,Female
+8,LN222,Krakow,London,PE,PanEurope,Boeing 787,Mareah,Peplay,Female
+9,LN222,Krakow,London,PE,PanEurope,Boeing 787,Edik,Smieton,Male
+10,LN222,Krakow,London,PE,PanEurope,Boeing 787,Brewster,Vear,Male
+11,LN222,Krakow,London,PE,PanEurope,Boeing 787,Ashton,Tregunna,Male
+12,LN222,Krakow,London,PE,PanEurope,Boeing 787,Emmanuel,Tickel,Male
+13,LN222,Krakow,London,PE,PanEurope,Boeing 787,Ingmar,Cockman,Male
+14,LN222,Krakow,London,PE,PanEurope,Boeing 787,Claudie,Braid,Female
+15,BE321,Krakow,Berlin,SH,SunHoliday,Airbus A319,Alene,Wetherburn,Female
+16,BE321,Krakow,Berlin,SH,SunHoliday,Airbus A319,Ive,Maccraw,Male
+17,BE321,Krakow,Berlin,SH,SunHoliday,Airbus A319,Odette,Hanhardt,Female
+18,BE321,Krakow,Berlin,SH,SunHoliday,Airbus A319,Millard,Spiers,Male
+19,BE321,Krakow,Berlin,SH,SunHoliday,Airbus A319,Hy,Lawrenz,Male
+20,BE321,Krakow,Berlin,SH,SunHoliday,Airbus A319,Leigha,Lethbury,Female
+21,BE321,Krakow,Berlin,SH,SunHoliday,Airbus A319,Lorelei,Brownell,Female
+22,BE321,Krakow,Berlin,SH,SunHoliday,Airbus A319,Hogan,Boshers,Male
+23,BE321,Krakow,Berlin,SH,SunHoliday,Airbus A319,Lannie,Trolley,Male
+24,BE321,Krakow,Berlin,SH,SunHoliday,Airbus A319,Brew,Bum,Male
+25,BE321,Krakow,Berlin,SH,SunHoliday,Airbus A319,Creigh,Leuty,Male
+26,BE321,Krakow,Berlin,SH,SunHoliday,Airbus A319,Phil,Barcroft,Male
+27,BE321,Krakow,Berlin,SH,SunHoliday,Airbus A319,Amaleta,Prenty,Female
+28,BE321,Krakow,Berlin,SH,SunHoliday,Airbus A319,Latisha,Georgescu,Female
+29,BE321,Krakow,Berlin,SH,SunHoliday,Airbus A319,Faber,Janku,Male
+30,BE321,Krakow,Berlin,SH,SunHoliday,Airbus A319,Adelle,Dinneen,Female
+31,BE321,Krakow,Berlin,SH,SunHoliday,Airbus A319,Roman,MacAskill,Male
+32,PA006,Krakow,Paris,SH,SunHoliday,Airbus A319,Korry,McGrann,Female
+33,PA006,Krakow,Paris,SH,SunHoliday,Airbus A319,Heath,Butterfill,Female
+34,PA006,Krakow,Paris,SH,SunHoliday,Airbus A319,Cchaddie,Doughton,Male
+35,PA006,Krakow,Paris,SH,SunHoliday,Airbus A319,Mark,Donati,Male
+36,PA006,Krakow,Paris,SH,SunHoliday,Airbus A319,Sal,Muzzlewhite,Male
+37,PA006,Krakow,Paris,SH,SunHoliday,Airbus A319,Miguela,Benzie,Female
+38,PA006,Krakow,Paris,SH,SunHoliday,Airbus A319,Ashby,Klimmek,Male
+39,PA006,Krakow,Paris,SH,SunHoliday,Airbus A319,Annemarie,Letson,Female
+40,PA006,Krakow,Paris,SH,SunHoliday,Airbus A319,Cloe,Salzberg,Female
+41,PA006,Krakow,Paris,SH,SunHoliday,Airbus A319,Lindsay,Smeall,Male
+42,PA006,Krakow,Paris,SH,SunHoliday,Airbus A319,Chelsae,Evins,Female
+43,PA006,Krakow,Paris,SH,SunHoliday,Airbus A319,Gayler,Hanshaw,Male
+44,PA006,Krakow,Paris,SH,SunHoliday,Airbus A319,Gasparo,De Vere,Male
+45,PA006,Krakow,Paris,SH,SunHoliday,Airbus A319,Derril,Wadge,Male
+46,PA006,Krakow,Paris,SH,SunHoliday,Airbus A319,Kip,Sumpton,Female
+47,PA006,Krakow,Paris,SH,SunHoliday,Airbus A319,Leann,Pinkerton,Female
+48,PA006,Krakow,Paris,SH,SunHoliday,Airbus A319,Augustine,Osgodby,Male
+49,PA006,Krakow,Paris,SH,SunHoliday,Airbus A319,Ivette,Milesap,Female
+50,PA006,Krakow,Paris,SH,SunHoliday,Airbus A319,Alene,Emig,Female
+51,PA006,Krakow,Paris,SH,SunHoliday,Airbus A319,Fanny,Fennessy,Female
+52,PA006,Krakow,Paris,SH,SunHoliday,Airbus A319,Baillie,Doyle,Male
+53,PA006,Krakow,Paris,SH,SunHoliday,Airbus A319,Algernon,Balazin,Male
+54,PA006,Krakow,Paris,SH,SunHoliday,Airbus A319,Blanch,Tink,Female
+55,PA006,Krakow,Paris,SH,SunHoliday,Airbus A319,Dugald,Hudspeth,Male
+56,PA006,Krakow,Paris,SH,SunHoliday,Airbus A319,Talia,Yendle,Female
+57,PA006,Krakow,Paris,SH,SunHoliday,Airbus A319,Baudoin,Inwood,Male
+58,PA006,Krakow,Paris,SH,SunHoliday,Airbus A319,Guido,Guiden,Male
+59,PA006,Krakow,Paris,SH,SunHoliday,Airbus A319,Terrence,Stowe,Male
+60,PA006,Krakow,Paris,SH,SunHoliday,Airbus A319,Linda,Kupper,Female
+61,PA006,Krakow,Paris,SH,SunHoliday,Airbus A319,Erminie,Earland,Female
+62,PA006,Krakow,Paris,SH,SunHoliday,Airbus A319,Karlan,Syers,Male
+63,PA006,Krakow,Paris,SH,SunHoliday,Airbus A319,Lia,Mapston,Female
+64,PA006,Krakow,Paris,SH,SunHoliday,Airbus A319,Nikolas,Van Der Vlies,Male
+65,PA006,Krakow,Paris,SH,SunHoliday,Airbus A319,Paige,Freeborne,Female
+66,PA006,Krakow,Paris,SH,SunHoliday,Airbus A319,Jule,Wolvey,Male
+67,PA006,Krakow,Paris,SH,SunHoliday,Airbus A319,Harlin,Suscens,Male
+68,PA006,Krakow,Paris,SH,SunHoliday,Airbus A319,Genevra,Garlicke,Female
+69,PA006,Krakow,Paris,SH,SunHoliday,Airbus A319,Prisca,Scutching,Female
+70,PA006,Krakow,Paris,SH,SunHoliday,Airbus A319,Janene,Elger,Female
+71,PA006,Krakow,Paris,SH,SunHoliday,Airbus A319,Burr,Feaks,Male
+72,PA006,Krakow,Paris,SH,SunHoliday,Airbus A319,Alon,Brixham,Male
+73,NY777,Krakow,New York,BS,BlueSky,Airbus A330,Ingaberg,Adanet,Female
+74,NY777,Krakow,New York,BS,BlueSky,Airbus A330,Leonhard,Videneev,Male
+75,NY777,Krakow,New York,BS,BlueSky,Airbus A330,Sibbie,Benoiton,Female
+76,NY777,Krakow,New York,BS,BlueSky,Airbus A330,Linn,Suttling,Male
+77,NY777,Krakow,New York,BS,BlueSky,Airbus A330,Stanwood,Urey,Male
+78,NY777,Krakow,New York,BS,BlueSky,Airbus A330,Corney,Spurrett,Male
+79,NY777,Krakow,New York,BS,BlueSky,Airbus A330,Orsola,Fannon,Female
+80,NY777,Krakow,New York,BS,BlueSky,Airbus A330,Brook,Whinney,Male
+81,NY777,Krakow,New York,BS,BlueSky,Airbus A330,Germaine,Jakeman,Male
+82,NY777,Krakow,New York,BS,BlueSky,Airbus A330,Jeri,Vegas,Female
+83,NY777,Krakow,New York,BS,BlueSky,Airbus A330,Cornela,Sherbourne,Female
+84,NY777,Krakow,New York,BS,BlueSky,Airbus A330,Fremont,Dyson,Male
+85,NY777,Krakow,New York,BS,BlueSky,Airbus A330,Henrie,Whal,Female
+86,NY777,Krakow,New York,BS,BlueSky,Airbus A330,Cirilo,Rowet,Male
+87,NY777,Krakow,New York,BS,BlueSky,Airbus A330,Donnamarie,McSaul,Female
+88,NY777,Krakow,New York,BS,BlueSky,Airbus A330,Dael,Hallatt,Male
+89,NY777,Krakow,New York,BS,BlueSky,Airbus A330,Jacenta,Bleeze,Female
+90,NY777,Krakow,New York,BS,BlueSky,Airbus A330,Caro,Impleton,Female
+91,NY777,Krakow,New York,BS,BlueSky,Airbus A330,Mufi,Gipp,Female
+92,NY777,Krakow,New York,BS,BlueSky,Airbus A330,Roi,Baudy,Male
+93,NY777,Krakow,New York,BS,BlueSky,Airbus A330,Gavan,Thaine,Male
+94,NY777,Krakow,New York,BS,BlueSky,Airbus A330,Pierette,Margram,Female
+95,NY777,Krakow,New York,BS,BlueSky,Airbus A330,Joel,Tuther,Male
+96,NY777,Krakow,New York,BS,BlueSky,Airbus A330,Janos,Notman,Male
+97,NY777,Krakow,New York,BS,BlueSky,Airbus A330,Vance,Emmet,Male
+98,NY777,Krakow,New York,BS,BlueSky,Airbus A330,Angelina,Grinham,Female
+99,NY777,Krakow,New York,BS,BlueSky,Airbus A330,Barnabe,Burchard,Male

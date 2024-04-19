@@ -5,7 +5,7 @@
 
 ## Adding Columns
 
-1. Open the notebook extra-columns.ipynb. Learn how to add some extra columns to the existed DataFrame. Then, complete all tasks in the notebook.
+1. Open the notebook extra-columns.ipynb. Learn how to add some extra columns to the existing DataFrame. Then, complete all tasks in the notebook.
 
 1. The continents.csv file contains data on the area and number of inhabitants of some continents. Create a notebook in which create a DataFrame with the data contained in the CSV file. Display the contents of the DataFrame. Then, add a column in which calculate the population density, i.e. the number of inhabitants per 1 km2. View the modified DataFrame.
 
